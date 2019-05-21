@@ -1,31 +1,23 @@
-## This can be your internal website page / project page
+## A homely, checkbox-based drum machine 
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="images/check-yourself.png/" width="400"/>
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### Try the [live app](https://check-yourself.herokuapp.com/)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Check yourself is a web-based drum-machine interface, built on top of the [Beats](https://github.com/jstrait/beats) gem.
+Written in Ruby using Sinatra. 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Here's how to play:
 
-### 2. Assess assumptions on which statistical inference will be based
+- Each instrument has its own rhythm, represented by a horizontal row of checkboxes.
+- Each checkbox in the row corresponds to a 16th note in that instrument's rhythm.
+- Click the checkboxes for one or more instruments to build some rhythms.
+- Then, click the 'Update rhythms' button to the right of the checkboxes to hear your track!
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+You can also:
 
-### 3. Support the selection of appropriate statistical tools and techniques
+- add variety to your track by adding a new section (it appears at the bottom of the screen)
+- change the tempo or the drum kit for your track
+- start over and view these instructions again
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Have fun!
