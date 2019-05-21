@@ -1,9 +1,9 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Ben Harvey # your name (or website title) here
+logo: "https://photos.app.goo.gl/CvUnsewoTwVMcC5ZA" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Studying software engineering with a mastery-based approach
   <br><br>
-  Second description 
+  [Launch School](https://launchschool.com)
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
