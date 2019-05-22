@@ -17,4 +17,4 @@ You can also:
 - add variety to your track by adding a new section (it appears at the bottom of the screen)
 - change the tempo or the drum kit for your track
 
-Have fun!
+[Go to the repo](https://github.com/ben-harvey/check-yourself)
