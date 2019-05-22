@@ -1,4 +1,4 @@
-## A homely, checkbox-based drum machine 
+## A checkbox-based drum machine 
 
 ### Try the [live app](https://check-yourself.herokuapp.com/)
 
