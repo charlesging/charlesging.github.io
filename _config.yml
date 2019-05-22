@@ -1,9 +1,7 @@
 title: Ben Harvey # your name (or website title) here
 logo: "/images/IMG-0011.JPG" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Studying software engineering with a mastery-based approach
-  <br>
-  <a href="https://launchschool.com/employers">Launch School</a>
+  Studying software engineering with a mastery-based approach at <a href="https://launchschool.com/employers">Launch School</a>
 
   
 theme: jekyll-theme-minimal
