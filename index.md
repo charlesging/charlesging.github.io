@@ -15,5 +15,5 @@
 ### Python Projects 
 
   - ### [Appalachian Appelation Dynamo](ben-harvey.github.io/aad)
-  #### a Markov chain generator for fiddle tune names
-  <img src="images/aad.png" width="400">
+    #### a Markov chain generator for fiddle tune names
+    <img src="images/aad.png" width="400">
