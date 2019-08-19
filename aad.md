@@ -6,4 +6,4 @@ The Amazing **Appalachian Appelation Dynamo** generates unique fiddle tune names
 - Generated with [Markovify](https://github.com/jsvine/markovify)
 - Written in Python, using Flask 
 
-
+[Go to the repo](https://github.com/ben-harvey/a-a-dynamo)
