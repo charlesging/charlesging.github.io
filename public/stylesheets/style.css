@@ -113,7 +113,7 @@ header {
 
 h4 {
   align-items: center;
-  color: #450838;
+  color: #a0aab5;
   display: flex;
   font-family: "Roboto", sans-serif;
   font-size: 1.2rem;
@@ -140,11 +140,15 @@ p {
   color: #494c54;
 }
 
+h4 a {
+  color: #494c54;
+}
+
 a.redpoint {
   color: #ed7164;
 }
 
-a:hover {
+a.redpoint:hover {
   color: #6897bb;
 }
 
